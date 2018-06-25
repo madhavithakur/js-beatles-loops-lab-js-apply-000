@@ -24,6 +24,7 @@ function iLoveTheBeatles(times){
   do{
     result[i] = "I love the Beatles!";
     i++;
+    times++;
   }while(times<15)
   
   return result;
