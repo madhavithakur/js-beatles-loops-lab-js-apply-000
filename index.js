@@ -18,4 +18,11 @@ function johnLennonFacts(facts){
   return result;
 }
 
-function iLoveTheBeatles()
+function iLoveTheBeatles(times){
+  var result=[];
+  do{\]'
+  '/'
+  }while(times<15){
+    
+  }
+}
